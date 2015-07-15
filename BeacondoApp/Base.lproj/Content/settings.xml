@@ -1,0 +1,63 @@
+<beacondo>
+	<version>2</version>
+
+	<appName><![CDATA[Mapco Beacon]]></appName>
+	<appAuthor><![CDATA[MapcoExpress.com]]></appAuthor>
+	<appEmail><![CDATA[Robert.Rochford@mapcoexpress.com]]></appEmail>
+
+	<startBeacons>launch</startBeacons>
+	<localAlertSetting>launch</localAlertSetting>
+	<pushMessageSetting>launch</pushMessageSetting>
+	<locationSetting>always</locationSetting>
+
+	<analyticsProvider>none</analyticsProvider>
+	<analyticsID></analyticsID>
+
+	<windowSettings>
+		<tintColor>28a444ff</tintColor>
+		<statusBarStyle>0</statusBarStyle>
+		<navBarBackgroundColor>ffffffff</navBarBackgroundColor>
+		<navBarForegroundColor>000000ff</navBarForegroundColor>
+		<navBarFont>HelveticaNeue-Medium</navBarFont>
+		<navBarSize>17</navBarSize>
+		<screenLayout>tabs</screenLayout>
+		<sideMenuBackgroundColor>737373ff</sideMenuBackgroundColor>
+		<sideMenuSelectedColor>505050ff</sideMenuSelectedColor>
+		<sideMenuTextColor>ffffffff</sideMenuTextColor>
+		<sideMenuShowsIcons>0</sideMenuShowsIcons>
+		<basketAdjustQuantities>0</basketAdjustQuantities>
+		<basketShowQuantities>0</basketShowQuantities>
+		<basketShowPrices>0</basketShowPrices>
+		<advertisingMode>0</advertisingMode>
+	</windowSettings>
+
+	<gridSettings>
+		<width>145</width>
+		<imageHeight>82</imageHeight>
+		<textHeight>24</textHeight>
+		<layout>image,price</layout>
+		<titleFont>HelveticaNeue-Light</titleFont>
+		<titleSize>14</titleSize>
+		<titleColor>#000000ff</titleColor>
+		<spacing>10</spacing>
+		<borderColor>#000000ff</borderColor>
+		<borderWidth>1</borderWidth>
+		<backgroundColor>#ffffffff</backgroundColor>
+		<backgroundImage></backgroundImage>
+	</gridSettings>
+
+	<tableSettings>
+		<height>70</height>
+		<subtitle>price</subtitle>
+		<titleFont>HelveticaNeue-Thin</titleFont>
+		<titleSize>20</titleSize>
+		<titleColor>#000000ff</titleColor>
+		<subtitleFont>HelveticaNeue-Light</subtitleFont>
+		<subtitleSize>14</subtitleSize>
+		<subtitleColor>#000000ff</subtitleColor>
+		<borderColor>000000ff</borderColor>
+		<borderWidth>1</borderWidth>
+		<backgroundColor>#ffffffff</backgroundColor>
+		<backgroundImage></backgroundImage>
+	</tableSettings>
+</beacondo>

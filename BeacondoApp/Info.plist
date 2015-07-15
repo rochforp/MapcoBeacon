@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BeacondoAlertMessage</key>
+	<string>Swipe to unlock your phone and find specials offers from the MapcoBeacon app!</string>
+	<key>BeacondoLicenseKey</key>
+	<string>YOUR LICENSE KEY HERE</string>
+	<key>BeacondoLicenseName</key>
+	<string>YOUR LICENSE NAME HERE</string>
+	<key>BeacondoPayPalClientID</key>
+	<string></string>
+	<key>BeacondoPayPalCurrencyCode</key>
+	<string>USD</string>
+	<key>BeacondoPayPalProductionMode</key>
+	<string></string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.mapcoexpress.mapcobeacon</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.1</string>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>We would like to show you special location-based Mapco offers.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>We would like to show you special location-based Mapco offers.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We would like to show you special location-based Mapco offers.</string>
+	<key>UILaunchStoryboardName</key>
+	<string>Launch Screen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+</dict>
+</plist>

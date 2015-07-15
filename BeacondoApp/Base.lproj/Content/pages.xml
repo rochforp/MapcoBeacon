@@ -1,0 +1,202 @@
+<beacondo>
+	<section>
+		<id><![CDATA[Snacks]]></id>
+		<title><![CDATA[Snacks]]></title>
+
+		<rightButton>
+			<title><![CDATA[]]></title>
+			<image><![CDATA[]]></image>
+			<link type="nothing"><![CDATA[]]></link>
+		</rightButton>
+
+		<pages>
+			<page>
+				<id><![CDATA[Snickers]]></id>
+				<ean><![CDATA[]]></ean>
+				<title><![CDATA[Snickers]]></title>
+				<price><![CDATA[$0.99]]></price>
+				<titleImage><![CDATA[]]></titleImage>
+				<thumbnail><![CDATA[Snickers_wrapped.jpg]]></thumbnail>
+				<thumbnailFromHeader><![CDATA[0]]></thumbnailFromHeader>
+				<content><![CDATA[<p style="margin: 0.0px 0.0px 12.0px 0.0px"><font face="Helvetica" size="6" color="#000000" style="font: 21.0px Helvetica; font-kerning: none; color: #000000; -webkit-text-stroke: 0px #000000">50% Off - Snickers</font></p>]]></content>
+
+				<contentSource><![CDATA[inline]]></contentSource>
+
+				<contentTemplate><![CDATA[pageTemplate.html]]></contentTemplate>
+
+				<header type="carousel" height="180" pagingDots="0">
+				</header>
+		<rightButton>
+			<title><![CDATA[]]></title>
+			<image><![CDATA[]]></image>
+			<link type="nothing"><![CDATA[]]></link>
+		</rightButton>
+
+			</page>
+			<page>
+				<id><![CDATA[Lays Potato Chips]]></id>
+				<ean><![CDATA[]]></ean>
+				<title><![CDATA[Lays Potato Chips]]></title>
+				<price><![CDATA[$0.99]]></price>
+				<titleImage><![CDATA[]]></titleImage>
+				<thumbnail><![CDATA[lays.jpeg]]></thumbnail>
+				<thumbnailFromHeader><![CDATA[0]]></thumbnailFromHeader>
+				<content><![CDATA[<p style="margin: 0.0px 0.0px 12.0px 0.0px"><font face="Helvetica" size="6" color="#000000" style="font: 21.0px Helvetica; font-kerning: none; color: #000000; -webkit-text-stroke: 0px #000000">50% Off - Selected Lay’s Potato Chips</font></p>]]></content>
+
+				<contentSource><![CDATA[inline]]></contentSource>
+
+				<contentTemplate><![CDATA[pageTemplate.html]]></contentTemplate>
+
+				<header type="carousel" height="180" pagingDots="0">
+				</header>
+		<rightButton>
+			<title><![CDATA[]]></title>
+			<image><![CDATA[]]></image>
+			<link type="nothing"><![CDATA[]]></link>
+		</rightButton>
+
+			</page>
+			<page>
+				<id><![CDATA[Hot Dog Pizza]]></id>
+				<ean><![CDATA[]]></ean>
+				<title><![CDATA[Hot Dog Pizza]]></title>
+				<price><![CDATA[Free Heart Attack]]></price>
+				<titleImage><![CDATA[]]></titleImage>
+				<thumbnail><![CDATA[hotdog_pizza.jpg]]></thumbnail>
+				<thumbnailFromHeader><![CDATA[0]]></thumbnailFromHeader>
+				<content><![CDATA[<p><font face="Helvetica" size="6" color="#000000" style="font: 21.0px Helvetica; font-kerning: none; color: #000000; -webkit-text-stroke: 0px #000000">Don’t eat this stuff! You will die sooner!</font></p>]]></content>
+
+				<contentSource><![CDATA[inline]]></contentSource>
+
+				<contentTemplate><![CDATA[pageTemplate.html]]></contentTemplate>
+
+				<header type="carousel" height="180" pagingDots="0">
+				</header>
+		<rightButton>
+			<title><![CDATA[]]></title>
+			<image><![CDATA[]]></image>
+			<link type="nothing"><![CDATA[]]></link>
+		</rightButton>
+
+			</page>
+		</pages>
+	</section>
+	<section>
+		<id><![CDATA[Coke Products]]></id>
+		<title><![CDATA[Coke Products]]></title>
+
+		<rightButton>
+			<title><![CDATA[]]></title>
+			<image><![CDATA[]]></image>
+			<link type="nothing"><![CDATA[]]></link>
+		</rightButton>
+
+		<pages>
+			<page>
+				<id><![CDATA[Diet Coke]]></id>
+				<ean><![CDATA[]]></ean>
+				<title><![CDATA[Diet Coke]]></title>
+				<price><![CDATA[$1.99]]></price>
+				<titleImage><![CDATA[]]></titleImage>
+				<thumbnail><![CDATA[diet-coke.jpg]]></thumbnail>
+				<thumbnailFromHeader><![CDATA[0]]></thumbnailFromHeader>
+				<content><![CDATA[<p style="margin: 0.0px 0.0px 12.0px 0.0px"><font face="Helvetica" size="6" color="#000000" style="font: 21.0px Helvetica; font-kerning: none; color: #000000; -webkit-text-stroke: 0px #000000">25% Off - Diet Coke</font></p>]]></content>
+
+				<contentSource><![CDATA[inline]]></contentSource>
+
+				<contentTemplate><![CDATA[pageTemplate.html]]></contentTemplate>
+
+				<header type="carousel" height="180" pagingDots="0">
+				</header>
+		<rightButton>
+			<title><![CDATA[]]></title>
+			<image><![CDATA[]]></image>
+			<link type="nothing"><![CDATA[]]></link>
+		</rightButton>
+
+			</page>
+			<page>
+				<id><![CDATA[Coke Zero]]></id>
+				<ean><![CDATA[]]></ean>
+				<title><![CDATA[Coke Zero]]></title>
+				<price><![CDATA[$0.99]]></price>
+				<titleImage><![CDATA[]]></titleImage>
+				<thumbnail><![CDATA[Coca-Cola_Zero.jpg]]></thumbnail>
+				<thumbnailFromHeader><![CDATA[0]]></thumbnailFromHeader>
+				<content><![CDATA[<p style="margin: 0.0px 0.0px 12.0px 0.0px"><font face="Helvetica" size="6" color="#000000" style="font: 21.0px Helvetica; font-kerning: none; color: #000000; -webkit-text-stroke: 0px #000000">25% Off - Coke Zero</font></p>]]></content>
+
+				<contentSource><![CDATA[inline]]></contentSource>
+
+				<contentTemplate><![CDATA[pageTemplate.html]]></contentTemplate>
+
+				<header type="carousel" height="180" pagingDots="0">
+				</header>
+		<rightButton>
+			<title><![CDATA[]]></title>
+			<image><![CDATA[]]></image>
+			<link type="nothing"><![CDATA[]]></link>
+		</rightButton>
+
+			</page>
+			<page>
+				<id><![CDATA[CocaCola Classic]]></id>
+				<ean><![CDATA[]]></ean>
+				<title><![CDATA[CocaCola Classic]]></title>
+				<price><![CDATA[$0.99]]></price>
+				<titleImage><![CDATA[]]></titleImage>
+				<thumbnail><![CDATA[cokeClassic.jpeg]]></thumbnail>
+				<thumbnailFromHeader><![CDATA[0]]></thumbnailFromHeader>
+				<content><![CDATA[<p style="margin: 0.0px 0.0px 12.0px 0.0px"><font face="Helvetica" size="6" style="font: 21.0px Helvetica; font-kerning: none; -webkit-text-stroke: 0px #000000">25% Off - Coca Cola Classic</font></p>]]></content>
+
+				<contentSource><![CDATA[inline]]></contentSource>
+
+				<contentTemplate><![CDATA[pageTemplate.html]]></contentTemplate>
+
+				<header type="carousel" height="180" pagingDots="0">
+				</header>
+		<rightButton>
+			<title><![CDATA[]]></title>
+			<image><![CDATA[]]></image>
+			<link type="nothing"><![CDATA[]]></link>
+		</rightButton>
+
+			</page>
+		</pages>
+	</section>
+	<section>
+		<id><![CDATA[Hidden Deals]]></id>
+		<title><![CDATA[Hidden Deals]]></title>
+
+		<rightButton>
+			<title><![CDATA[]]></title>
+			<image><![CDATA[]]></image>
+			<link type="nothing"><![CDATA[]]></link>
+		</rightButton>
+
+		<pages>
+			<page>
+				<id><![CDATA[Free Stuff]]></id>
+				<ean><![CDATA[]]></ean>
+				<title><![CDATA[Free Stuff]]></title>
+				<price><![CDATA[$0.00!]]></price>
+				<titleImage><![CDATA[]]></titleImage>
+				<thumbnail><![CDATA[MyRewardsBackground.png]]></thumbnail>
+				<thumbnailFromHeader><![CDATA[0]]></thumbnailFromHeader>
+				<content><![CDATA[<p><font face="Helvetica" size="6" color="#000000" style="font: 21.0px Helvetica; font-kerning: none; color: #000000; -webkit-text-stroke: 0px #000000">Show you cashier this message to claim your free item!</font></p>]]></content>
+
+				<contentSource><![CDATA[inline]]></contentSource>
+
+				<contentTemplate><![CDATA[pageTemplate.html]]></contentTemplate>
+
+				<header type="carousel" height="180" pagingDots="0">
+				</header>
+		<rightButton>
+			<title><![CDATA[]]></title>
+			<image><![CDATA[]]></image>
+			<link type="nothing"><![CDATA[]]></link>
+		</rightButton>
+
+			</page>
+		</pages>
+	</section>
+</beacondo>

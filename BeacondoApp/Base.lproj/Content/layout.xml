@@ -1,0 +1,268 @@
+<beacondo>
+	<screens>
+		<screen>
+			<id><![CDATA[Home]]></id>
+			<title><![CDATA[Home]]></title>
+			<titleImage><![CDATA[MyRewardsBackground.png]]></titleImage>
+			<icon><![CDATA[iconHome.png]]></icon>
+
+			<backgroundImage><![CDATA[]]></backgroundImage>
+
+			<backgroundColor><![CDATA[#ffffffff]]></backgroundColor>
+
+			<leftButton>
+				<title><![CDATA[]]></title>
+				<image><![CDATA[iconAction.png]]></image>
+				<link type="facebook"><![CDATA[I love MAPCO!!!!||||mapco_banner.JPG]]></link>
+			</leftButton>
+
+			<rightButton>
+				<title><![CDATA[]]></title>
+				<image><![CDATA[iconForward.png]]></image>
+				<link type="externalUrl"><![CDATA[www.mapcoexpress.com]]></link>
+			</rightButton>
+
+			<layout>
+				<item type="carousel" height="180" pagingDots="1">
+					<state>
+						<content><![CDATA[Mapco_Square_Logo.png]]></content>
+						<link type="externalUrl"><![CDATA[https://www.youtube.com/watch?v=HFBUc7aK9NY]]></link>
+					</state>
+					<state>
+						<content><![CDATA[immediate_image.jpg]]></content>
+						<link type="message"><![CDATA[Buy One, Get One on Hot Dogs]]></link>
+					</state>
+					<state>
+						<content><![CDATA[coffee.jpeg]]></content>
+						<link type="message"><![CDATA[25% Off Mapco Signature Coffee]]></link>
+					</state>
+					<state>
+						<content><![CDATA[special.jpg]]></content>
+						<link type="message"><![CDATA[$0.10 Off Any Fuel Grade!]]></link>
+					</state>
+				</item>
+				<item type="row" height="0">
+					<backgroundImage><![CDATA[]]></backgroundImage>
+					<backgroundColor><![CDATA[00000000]]></backgroundColor>
+					<thumbnail><![CDATA[snacks.jpg]]></thumbnail>
+					<title><![CDATA[Selected Snacks]]></title>
+					<titleFont><![CDATA[HelveticaNeue-Thin]]></titleFont>
+					<titleSize><![CDATA[20]]></titleSize>
+					<titleAlignment><![CDATA[left]]></titleAlignment>
+					<titleColor><![CDATA[000000ff]]></titleColor>
+					<subtitle><![CDATA[50% Off - Expires 8/30/15]]></subtitle>
+					<subtitleFont><![CDATA[HelveticaNeue-Light]]></subtitleFont>
+					<subtitleSize><![CDATA[14]]></subtitleSize>
+					<subtitleAlignment><![CDATA[left]]></subtitleAlignment>
+					<subtitleColor><![CDATA[000000ff]]></subtitleColor>
+					<useDefaultFonts><![CDATA[1]]></useDefaultFonts>
+					<link type="tableSectionID"><![CDATA[Snacks]]></link>
+					<showsArrow>1</showsArrow>
+				</item>
+				<item type="row" height="0">
+					<backgroundImage><![CDATA[]]></backgroundImage>
+					<backgroundColor><![CDATA[00000000]]></backgroundColor>
+					<thumbnail><![CDATA[Coke.jpg]]></thumbnail>
+					<title><![CDATA[Coke Products]]></title>
+					<titleFont><![CDATA[HelveticaNeue-Thin]]></titleFont>
+					<titleSize><![CDATA[20]]></titleSize>
+					<titleAlignment><![CDATA[left]]></titleAlignment>
+					<titleColor><![CDATA[000000ff]]></titleColor>
+					<subtitle><![CDATA[25% Off - Expires 8/30/15]]></subtitle>
+					<subtitleFont><![CDATA[HelveticaNeue-Light]]></subtitleFont>
+					<subtitleSize><![CDATA[14]]></subtitleSize>
+					<subtitleAlignment><![CDATA[left]]></subtitleAlignment>
+					<subtitleColor><![CDATA[000000ff]]></subtitleColor>
+					<useDefaultFonts><![CDATA[1]]></useDefaultFonts>
+					<link type="tableSectionID"><![CDATA[Coke Products]]></link>
+					<showsArrow>1</showsArrow>
+				</item>
+				<item type="row" height="0">
+					<backgroundImage><![CDATA[]]></backgroundImage>
+					<backgroundColor><![CDATA[00000000]]></backgroundColor>
+					<thumbnail><![CDATA[Fuel.jpg]]></thumbnail>
+					<title><![CDATA[Mapco Fuel]]></title>
+					<titleFont><![CDATA[HelveticaNeue-Thin]]></titleFont>
+					<titleSize><![CDATA[20]]></titleSize>
+					<titleAlignment><![CDATA[left]]></titleAlignment>
+					<titleColor><![CDATA[000000ff]]></titleColor>
+					<subtitle><![CDATA[$0.10 Off Per Gallon - Expires 8/20/15]]></subtitle>
+					<subtitleFont><![CDATA[HelveticaNeue-Light]]></subtitleFont>
+					<subtitleSize><![CDATA[14]]></subtitleSize>
+					<subtitleAlignment><![CDATA[left]]></subtitleAlignment>
+					<subtitleColor><![CDATA[000000ff]]></subtitleColor>
+					<useDefaultFonts><![CDATA[1]]></useDefaultFonts>
+					<link type="message"><![CDATA[$0.10 Off Per Gallon For ANY Fuel!]]></link>
+					<showsArrow>1</showsArrow>
+				</item>
+				<item type="row" height="0">
+					<backgroundImage><![CDATA[]]></backgroundImage>
+					<backgroundColor><![CDATA[00000000]]></backgroundColor>
+					<thumbnail><![CDATA[water_bottle.jpg]]></thumbnail>
+					<title><![CDATA[Mapco Bottled Water]]></title>
+					<titleFont><![CDATA[HelveticaNeue-Thin]]></titleFont>
+					<titleSize><![CDATA[20]]></titleSize>
+					<titleAlignment><![CDATA[left]]></titleAlignment>
+					<titleColor><![CDATA[000000ff]]></titleColor>
+					<subtitle><![CDATA[Buy 1, Get 1 Free -Expires 8/20/15]]></subtitle>
+					<subtitleFont><![CDATA[HelveticaNeue-Light]]></subtitleFont>
+					<subtitleSize><![CDATA[14]]></subtitleSize>
+					<subtitleAlignment><![CDATA[left]]></subtitleAlignment>
+					<subtitleColor><![CDATA[000000ff]]></subtitleColor>
+					<useDefaultFonts><![CDATA[1]]></useDefaultFonts>
+					<link type="message"><![CDATA[Display this to cashier and get BOGO Mapco Bottled Water]]></link>
+					<showsArrow>1</showsArrow>
+				</item>
+				<item type="row" height="0">
+					<backgroundImage><![CDATA[]]></backgroundImage>
+					<backgroundColor><![CDATA[00000000]]></backgroundColor>
+					<thumbnail><![CDATA[coffee.jpeg]]></thumbnail>
+					<title><![CDATA[Mapco Coffee]]></title>
+					<titleFont><![CDATA[HelveticaNeue-Thin]]></titleFont>
+					<titleSize><![CDATA[20]]></titleSize>
+					<titleAlignment><![CDATA[left]]></titleAlignment>
+					<titleColor><![CDATA[000000ff]]></titleColor>
+					<subtitle><![CDATA[25% Off Mapco Signature Coffee]]></subtitle>
+					<subtitleFont><![CDATA[HelveticaNeue-Light]]></subtitleFont>
+					<subtitleSize><![CDATA[14]]></subtitleSize>
+					<subtitleAlignment><![CDATA[left]]></subtitleAlignment>
+					<subtitleColor><![CDATA[000000ff]]></subtitleColor>
+					<useDefaultFonts><![CDATA[1]]></useDefaultFonts>
+					<link type="message"><![CDATA[25% Off Mapco Brand Coffee]]></link>
+					<showsArrow>1</showsArrow>
+				</item>
+				<item type="row" height="0">
+					<backgroundImage><![CDATA[]]></backgroundImage>
+					<backgroundColor><![CDATA[00000000]]></backgroundColor>
+					<thumbnail><![CDATA[far_image.jpg]]></thumbnail>
+					<title><![CDATA[Contact Us]]></title>
+					<titleFont><![CDATA[HelveticaNeue-Thin]]></titleFont>
+					<titleSize><![CDATA[20]]></titleSize>
+					<titleAlignment><![CDATA[left]]></titleAlignment>
+					<titleColor><![CDATA[000000ff]]></titleColor>
+					<subtitle><![CDATA[Feedback, comments, or questions]]></subtitle>
+					<subtitleFont><![CDATA[HelveticaNeue-Light]]></subtitleFont>
+					<subtitleSize><![CDATA[14]]></subtitleSize>
+					<subtitleAlignment><![CDATA[left]]></subtitleAlignment>
+					<subtitleColor><![CDATA[000000ff]]></subtitleColor>
+					<useDefaultFonts><![CDATA[1]]></useDefaultFonts>
+					<link type="emailSupport"><![CDATA[Great App!!]]></link>
+					<showsArrow>1</showsArrow>
+				</item>
+				<item type="row" height="0">
+					<backgroundImage><![CDATA[]]></backgroundImage>
+					<backgroundColor><![CDATA[00000000]]></backgroundColor>
+					<thumbnail><![CDATA[]]></thumbnail>
+					<title><![CDATA[Find a Mapco]]></title>
+					<titleFont><![CDATA[HelveticaNeue-Thin]]></titleFont>
+					<titleSize><![CDATA[20]]></titleSize>
+					<titleAlignment><![CDATA[left]]></titleAlignment>
+					<titleColor><![CDATA[000000ff]]></titleColor>
+					<subtitle><![CDATA[Map of Locations]]></subtitle>
+					<subtitleFont><![CDATA[HelveticaNeue-Light]]></subtitleFont>
+					<subtitleSize><![CDATA[14]]></subtitleSize>
+					<subtitleAlignment><![CDATA[left]]></subtitleAlignment>
+					<subtitleColor><![CDATA[000000ff]]></subtitleColor>
+					<useDefaultFonts><![CDATA[1]]></useDefaultFonts>
+					<link type="screenID"><![CDATA[Map]]></link>
+					<showsArrow>0</showsArrow>
+				</item>
+			</layout>
+		</screen>
+		<screen>
+			<id><![CDATA[Map]]></id>
+			<title><![CDATA[Map]]></title>
+			<titleImage><![CDATA[]]></titleImage>
+			<icon><![CDATA[]]></icon>
+
+			<backgroundImage><![CDATA[]]></backgroundImage>
+
+			<backgroundColor><![CDATA[#ffffffff]]></backgroundColor>
+
+			<leftButton>
+				<title><![CDATA[]]></title>
+				<image><![CDATA[]]></image>
+				<link type="nothing"><![CDATA[]]></link>
+			</leftButton>
+
+			<rightButton>
+				<title><![CDATA[]]></title>
+				<image><![CDATA[]]></image>
+				<link type="nothing"><![CDATA[]]></link>
+			</rightButton>
+
+			<layout>
+				<item type="map" height="180">
+					<locations><![CDATA[MapcoLocations.kml]]></locations>
+					<locationsMode>showAll</locationsMode>
+					<userMode>show</userMode>
+					<mapMode>hybrid</mapMode>
+					<enableScrolling>1</enableScrolling>
+				</item>
+			</layout>
+		</screen>
+	</screens>
+
+	<beacons>
+		<beacon>
+			<uuid><![CDATA[B9407F30-F5F8-466E-AFF9-25556B57FE6D]]></uuid>
+			<majorValue>4543</majorValue>
+			<minorValue>24404</minorValue>
+			<rangeLimit>2</rangeLimit>
+			<link type="twitter"><![CDATA[I love Mapco Mart and am not ashamed of it!]]></link>
+			<prompt><![CDATA[Post to Twitter?]]></prompt>
+			<sound><![CDATA[]]></sound>
+			<frequency>always</frequency>
+		</beacon>
+		<beacon>
+			<uuid><![CDATA[B9407F30-F5F8-466E-AFF9-25556B57FE6D]]></uuid>
+			<majorValue>25707</majorValue>
+			<minorValue>14226</minorValue>
+			<rangeLimit>1</rangeLimit>
+			<link type="message"><![CDATA[Come inside the store right now to receive a snack!]]></link>
+			<prompt><![CDATA[Welcome to Mapco! Would you like a special offer?]]></prompt>
+			<sound><![CDATA[]]></sound>
+			<frequency>always</frequency>
+		</beacon>
+		<beacon>
+			<uuid><![CDATA[B9407F30-F5F8-466E-AFF9-25556B57FE6D]]></uuid>
+			<majorValue>21214</majorValue>
+			<minorValue>33375</minorValue>
+			<rangeLimit>1</rangeLimit>
+			<link type="message"><![CDATA[Congratulations! You've found the secret spot in this store! 75% off Discount! Take your device to the register to claim it!]]></link>
+			<prompt><![CDATA[You're close to a special offer! Would you like to unlock it?]]></prompt>
+			<sound><![CDATA[Applause]]></sound>
+			<frequency>once</frequency>
+		</beacon>
+		<beacon>
+			<uuid><![CDATA[B9407F30-F5F8-466E-AFF9-25556B57FE6D]]></uuid>
+			<majorValue>61045</majorValue>
+			<minorValue>16636</minorValue>
+			<rangeLimit>1</rangeLimit>
+			<link type="message"><![CDATA[Take a walk around with your MyRewards App open to unlock special, hidden discounts and deals!]]></link>
+			<prompt><![CDATA[Thanks for entering a Mapco! Would You like to take part in out pilot app program?]]></prompt>
+			<sound><![CDATA[]]></sound>
+			<frequency>always</frequency>
+		</beacon>
+		<beacon>
+			<uuid><![CDATA[B9407F30-F5F8-466E-AFF9-25556B57FE6D]]></uuid>
+			<majorValue>5257</majorValue>
+			<minorValue>36182</minorValue>
+			<rangeLimit>3</rangeLimit>
+			<link type="facebook"><![CDATA[Robert is the best intern I could ever ask for!! No other compares to him!]]></link>
+			<prompt><![CDATA[Show some love for interns?]]></prompt>
+			<sound><![CDATA[]]></sound>
+			<frequency>always</frequency>
+		</beacon>
+		<beacon>
+			<uuid><![CDATA[B9407F30-F5F8-466E-AFF9-25556B57FE6D]]></uuid>
+			<majorValue>54097</majorValue>
+			<minorValue>13342</minorValue>
+			<rangeLimit>3</rangeLimit>
+			<link type="localSound"><![CDATA[Applause]]></link>
+			<prompt><![CDATA[Welcome to the future!]]></prompt>
+			<sound><![CDATA[]]></sound>
+			<frequency>always</frequency>
+		</beacon>
+	</beacons>
+</beacondo>
